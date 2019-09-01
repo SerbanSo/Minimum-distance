@@ -1,0 +1,11 @@
+E:\Proiecte\Proiect Info Apl 2\bin\Release\Proiect Info Apl 2.exe.config
+E:\Proiecte\Proiect Info Apl 2\bin\Release\Proiect Info Apl 2.exe
+E:\Proiecte\Proiect Info Apl 2\bin\Release\Proiect Info Apl 2.pdb
+E:\Proiecte\Proiect Info Apl 2\obj\Release\Proiect Info Apl 2.csprojResolveAssemblyReference.cache
+E:\Proiecte\Proiect Info Apl 2\obj\Release\Proiect_Info_Apl_2.Configurare.resources
+E:\Proiecte\Proiect Info Apl 2\obj\Release\Proiect_Info_Apl_2.Form1.resources
+E:\Proiecte\Proiect Info Apl 2\obj\Release\Proiect_Info_Apl_2.Properties.Resources.resources
+E:\Proiecte\Proiect Info Apl 2\obj\Release\Proiect_Info_Apl_2.Start.resources
+E:\Proiecte\Proiect Info Apl 2\obj\Release\Proiect Info Apl 2.csproj.GenerateResource.Cache
+E:\Proiecte\Proiect Info Apl 2\obj\Release\Proiect Info Apl 2.exe
+E:\Proiecte\Proiect Info Apl 2\obj\Release\Proiect Info Apl 2.pdb

@@ -1,0 +1,12 @@
+E:\Proiecte\Proiect Info Apl 2\bin\Debug\Proiect Info Apl 2.exe.config
+E:\Proiecte\Proiect Info Apl 2\bin\Debug\Proiect Info Apl 2.exe
+E:\Proiecte\Proiect Info Apl 2\bin\Debug\Proiect Info Apl 2.pdb
+E:\Proiecte\Proiect Info Apl 2\obj\Debug\Determining the minimum road.csprojAssemblyReference.cache
+E:\Proiecte\Proiect Info Apl 2\obj\Debug\Proiect_Info_Apl_2.Configurare.resources
+E:\Proiecte\Proiect Info Apl 2\obj\Debug\Proiect_Info_Apl_2.Form1.resources
+E:\Proiecte\Proiect Info Apl 2\obj\Debug\Proiect_Info_Apl_2.Properties.Resources.resources
+E:\Proiecte\Proiect Info Apl 2\obj\Debug\Proiect_Info_Apl_2.Start.resources
+E:\Proiecte\Proiect Info Apl 2\obj\Debug\Determining the minimum road.csproj.GenerateResource.cache
+E:\Proiecte\Proiect Info Apl 2\obj\Debug\Determining the minimum road.csproj.CoreCompileInputs.cache
+E:\Proiecte\Proiect Info Apl 2\obj\Debug\Proiect Info Apl 2.exe
+E:\Proiecte\Proiect Info Apl 2\obj\Debug\Proiect Info Apl 2.pdb
